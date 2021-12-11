@@ -27,6 +27,7 @@ Install these packge before using the script
 ```bash
   pip3 install django
   pip3 install urllib3==1.24.3
+  pip3 install requests
 ```
 ## Screenshots
 
